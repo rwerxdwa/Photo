@@ -1,1 +1,1 @@
-this was try hard
+this folder contain i mages for the script
