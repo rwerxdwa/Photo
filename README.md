@@ -1,1 +1,1 @@
-this folder contain i mages for the script
+this folder contain i mages for the wiki
